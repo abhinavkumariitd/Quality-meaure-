@@ -1,4 +1,4 @@
-It contains quality measures for evaluating the strengths of overlapping or disjoint communities in directed weighted/unweighted networks To use the code, first compile it on a linux/unix terminal as follows:
+It contains quality measure for evaluating the strengths of overlapping or disjoint communities in directed weighted/unweighted networks To use the code, first compile it on a linux/unix terminal as follows:
 
 g++ -std=c++11 directed_weighted_overlapping_modularity.cpp -o Qdwo
 
